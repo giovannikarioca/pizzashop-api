@@ -1,2 +1,0 @@
-# pizzashop-web
-# pizzashop-api
